@@ -31,6 +31,39 @@ A curated collection of small programs in C++ for personal practice and skill en
 </ul>
 </details>
 
+<details>
+<summary><b>Currency Converter</b></summary>
+<br>
+A program to convert currencies between different countries.
+<ul>
+  <li>Supports multiple currencies with real-time exchange rates</li>
+  <li>Uses simple user input for conversion</li>
+  <li><a href="#">View Code</a></li>
+</ul>
+</details>
+
+<details>
+<summary><b>Online Identification Card</b></summary>
+<br>
+An online ID card system implemented in C++.
+<ul>
+  <li>Stores personal data like name, address, ID number, etc.</li>
+  <li>Allows users to generate and display their ID cards</li>
+  <li><a href="#">View Code</a></li>
+</ul>
+</details>
+
+<details>
+<summary><b>Bank Management System</b></summary>
+<br>
+A simple bank management system for managing customer accounts and transactions.
+<ul>
+  <li>Supports account creation, balance checking, and money transfers</li>
+  <li>Includes error handling for various banking operations</li>
+  <li><a href="#">View Code</a></li>
+</ul>
+</details>
+
 <!-- Add more projects as you create them -->
 
 <h2>🛠️ Technologies Used</h2>
