@@ -32,7 +32,7 @@ public:
     void getheight()
     {
         cout << "height = " << height << endl;
-    }
+    }//
     void getweight()
     {
         cout << "weight = " << weight << endl;
